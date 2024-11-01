@@ -16,7 +16,7 @@ Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis p
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SupraVIM](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=SupraVIM&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Projets Réalisés
