@@ -1,7 +1,7 @@
 # Bienvenue sur mon GitHub 👋
 
-![GitHub followers](https://img.shields.io/github/followers/tonnomdutilisateur?label=Suiveurs&style=social)
-![GitHub stars](https://img.shields.io/github/stars/tonnomdutilisateur?label=Étoiles&style=social)
+![GitHub followers](https://img.shields.io/github/followers/realgetoff?label=Suiveurs&style=social)
+![GitHub stars](https://img.shields.io/github/stars/realgetoff?label=Étoiles&style=social)
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![42 Angoulême](https://img.shields.io/badge/42-Angoul%C3%AAme-000000?style=for-the-badge&logo=42&logoColor=white)
 
