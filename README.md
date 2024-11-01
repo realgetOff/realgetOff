@@ -1,9 +1,7 @@
 # Bienvenue sur mon GitHub 👋
 
-![GitHub followers](https://img.shields.io/github/followers/realgetoff?label=Suiveurs&style=social)
-![GitHub stars](https://img.shields.io/github/stars/realgetoff?label=Étoiles&style=social)
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![42 Angoulême](https://img.shields.io/badge/42-Angoul%C3%AAme-000000?style=for-the-badge&logo=42&logoColor=white)
+(<a href='https://profile.intra.42.fr/users/mforest-' target="_blank"><img alt='42' src='https://img.shields.io/badge/Intra-100000?style=flat-round&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>)
 
 ## Qui suis-je ?
 
