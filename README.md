@@ -31,8 +31,8 @@ Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis p
 
 ## Comment me contacter
 
-📧 [mforest-@student.42angouleme.fr](mailto:mforest-@student.42angouleme.fr)
-📸 [Instagram](https://www.instagram.com/malo.cmiyc/)
+📧 [mforest-@student.42angouleme.fr](mailto:mforest-@student.42angouleme.fr)  
+📸 [Instagram](https://www.instagram.com/malo.cmiyc/)  
 
 ## Autres
 
