@@ -13,7 +13,7 @@ Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis p
 - 💻 Je développe principalement en C, mais je suis curieux d'apprendre de nouveaux langages et technologies.
 - 🚀 Je participe activement à des projets collaboratifs et à des défis de codage pour améliorer mes compétences.
 
-## Technologies et Outils
+## Language(s) et Outil(s)
 
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -32,10 +32,9 @@ Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis p
 🟢 - **B2BR** : Création d'une distribution Linux personnalisée, axée sur la compréhension de l'installation et de la configuration des systèmes d'exploitation.  
 
 
-## Comment me contacter
+## Me contacter
 
 📧 [mforest-@student.42angouleme.fr](mailto:mforest-@student.42angouleme.fr)  
-📸 [Instagram](https://www.instagram.com/malo.cmiyc/)  
 
 ## Autres
 
