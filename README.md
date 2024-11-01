@@ -25,14 +25,14 @@ Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis p
 
 ## Projets Réalisés
 
-- ![ ](https://img.shields.io/badge/%20-28a745?style=for-the-badge&logoColor=white)
+- ![Libft](https://img.shields.io/badge/%20-28a745?style=for-the-badge&logoColor=white)
 **libft** : Ma propre bibliothèque de fonctions en C.
-- ![ ](https://img.shields.io/badge/%20-28a745?style=for-the-badge&logoColor=white)
-**ft_printf** : Réimplémentation de la fonction `printf` (en version très simplifiée) pour apprendre la gestion des sorties.
-- ![ ](https://img.shields.io/badge/%20-28a745?style=for-the-badge&logoColor=white)
-**B2BR** : Création d'une distribution Linux personnalisée, axée sur la compréhension de l'installation et de la configuration des systèmes d'exploitation.
-- ![ ](https://img.shields.io/badge/%20-F57F20?style=for-the-badge&logoColor=white)
+- ![LibftInspector](https://img.shields.io/badge/%20-F57F20?style=for-the-badge&logoColor=white)
 **LibftInspector** : Un tester pour le 1er projet de 42 (libft).
+- ![ft_printf](https://img.shields.io/badge/%20-28a745?style=for-the-badge&logoColor=white)
+**ft_printf** : Réimplémentation de la fonction `printf` (en version très simplifiée) pour apprendre la gestion des sorties.
+- ![B2BR](https://img.shields.io/badge/%20-28a745?style=for-the-badge&logoColor=white)
+**B2BR** : Création d'une distribution Linux personnalisée, axée sur la compréhension de l'installation et de la configuration des systèmes d'exploitation.
 
 
 ## Comment me contacter
