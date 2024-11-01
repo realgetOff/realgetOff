@@ -4,7 +4,7 @@
 
 ## Qui suis-je ?
 
-Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis passionné par l'informatique et actuellement plongé dans l'apprentissage du langage C. Mes projets GitHub incluent divers exercices, programmes, et solutions de défis de programmation, issus du cursus de 42 et de projets personnels.
+Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis passionné par tout les domaines de l'informatique et actuellement plongé dans l'apprentissage du C ainsi qu'intéressé dans celui du Vala. Mes projets GitHub incluent divers exercices, programmes, et solutions de défis de programmation, issus du cursus de 42 et de projets personnels.
 
 ## Ce que je fais actuellement
 
