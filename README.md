@@ -26,10 +26,10 @@ Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis p
 
 ## Projets Réalisés
 
-🟢 - **libft** : Ma propre bibliothèque de fonctions en C.
-🟠 - **LibftInspector** : Un tester pour le 1er projet de 42 (libft).
-🟢 - **ft_printf** : Réimplémentation de la fonction `printf` (en version très simplifiée) pour apprendre la gestion des sorties.
-🟢 - **B2BR** : Création d'une distribution Linux personnalisée, axée sur la compréhension de l'installation et de la configuration des systèmes d'exploitation.
+🟢 - **libft** : Ma propre bibliothèque de fonctions en C.  
+🟠 - **LibftInspector** : Un tester pour le 1er projet de 42 (libft).  
+🟢 - **ft_printf** : Réimplémentation de la fonction `printf` (en version très simplifiée) pour apprendre la gestion des sorties.  
+🟢 - **B2BR** : Création d'une distribution Linux personnalisée, axée sur la compréhension de l'installation et de la configuration des systèmes d'exploitation.  
 
 
 ## Comment me contacter
