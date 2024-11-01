@@ -25,11 +25,11 @@ Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis p
 
 ## Projets Réalisés
 
-- ![ ](https://img.shields.io/badge/Statut%20Terminé-28a745?style=for-the-badge&logoColor=white)
+- ![ ](https://img.shields.io/badge/%20-28a745?style=for-the-badge&logoColor=white)
 **libft**: Ma propre bibliothèque de fonctions en C.
-- ![ ](https://img.shields.io/badge/Statut%20Terminé-28a745?style=for-the-badge&logoColor=white)
+- ![ ](https://img.shields.io/badge/%20-28a745?style=for-the-badge&logoColor=white)
 **ft_printf**: Réimplémentation de la fonction `printf` (en version très simplifiée) pour apprendre la gestion des sorties.
-- ![ ](https://img.shields.io/badge/Statut%20Terminé-28a745?style=for-the-badge&logoColor=white)
+- ![ ](https://img.shields.io/badge/%20-28a745?style=for-the-badge&logoColor=white)
 **B2BR**: Création d'une distribution Linux personnalisée, axée sur la compréhension de l'installation et de la configuration des systèmes d'exploitation.
 
 ## Comment me contacter
