@@ -24,14 +24,6 @@ Salut ! Je suis étudiant à [42 Angoulême](https://www.42.fr/) 🎓. Je suis p
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white)
 
-## Projets Réalisés
-
-🟢 - **libft** : Ma propre bibliothèque de fonctions en C.  
-🟠 - **LibftInspector** : Un tester pour le 1er projet de 42 (libft).  
-🟢 - **ft_printf** : Réimplémentation de la fonction `printf` (en version très simplifiée) pour apprendre la gestion des sorties.  
-🟢 - **B2BR** : Création d'une distribution Linux personnalisée, axée sur la compréhension de l'installation et de la configuration des systèmes d'exploitation.  
-
-
 ## Me contacter
 
 📧 [mforest-@student.42angouleme.fr](mailto:mforest-@student.42angouleme.fr)  
