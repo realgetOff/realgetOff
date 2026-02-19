@@ -1,31 +1,31 @@
-# 👋 Bienvenue sur mon GitHub
+# (future) AI Engineer
 
 <a href='https://profile.intra.42.fr/users/mforest-' target="_blank"><img alt='42' src='https://img.shields.io/badge/Intra-100000?style=flat-round&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>  
 ![](https://komarev.com/ghpvc/?username=realgetOff&style=flat-round)
 
 ---
 
-## 💡 Qui suis-je ?
+## 💡 About Me
 
-Depuis mon enfance, je suis passionné par l’informatique. Cette passion m’a conduit à suivre des études à [42](https://www.42.fr/), où j’ai développé des compétences solides en **développement bas niveau**. Aujourd’hui, je me spécialise en **intelligence artificielle**, fasciné par la manière dont l’IA transforme des données complexes en solutions concrètes pour résoudre des problèmes du monde réel.
-
----
-
-## 🚀 Ce que je fais actuellement
-
-- 🔧 Étudiant à 42 Angoulême  
-- 💻 Développement en **C, C++** et technologies web modernes  
-- 🚀 Freelance chez [Aduxio](https://aduxio.fr), où je conçois et développe des solutions logicielles évolutives :
-
-  - ERP, CRM et outils internes optimisés pour performance et accessibilité multiplateforme
-  - Gestion de bases de données, formulaires complexes et workflows automatisés  
-  - Intégration de l’IA générative pour analyses et reporting en temps réel  
-  - Automatisation des processus pour réduire les erreurs et augmenter la productivité  
-  - Suivi rigoureux : correction de bugs, audits de sécurité et mises à jour régulières pour pérennité des applications  
+I have been passionate about computing since childhood. This passion led me to study at [42](https://www.42.fr/), where I developed solid skills in **low-level development**. Today, I specialize in **Artificial Intelligence**, fascinated by how AI transforms complex data into concrete solutions to solve real-world problems.
 
 ---
 
-## 💻 Stack technique
+## 🚀 What I'm currently doing
+
+- 🔧 Student at 42 Angoulême  
+- 💻 Developing in **C, C++**, and modern technologies  
+- 🚀 Freelance at [Aduxio](https://aduxio.fr), where I design and develop scalable software solutions:
+
+  - Optimized ERP, CRM, and internal tools for performance and cross-platform accessibility
+  - Database management, complex forms, and automated workflows  
+  - Generative AI integration for real-time analysis and reporting  
+  - Process automation to reduce errors and increase productivity  
+  - Rigorous follow-up: bug fixing, security audits, and regular updates for application sustainability  
+
+---
+
+## 💻 Technical Stack
 
 ### Languages & System
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white)
@@ -68,6 +68,6 @@ Depuis mon enfance, je suis passionné par l’informatique. Cette passion m’a
 
 ---
 
-## 📬 Me contacter
+## 📬 Contact Me
 
-📧 [mforest-@student.42angouleme.fr](mailto:mforest-@student.42angouleme.fr)  
+📧 [mforest-@student.42angouleme.fr](mailto:mforest-@student.42angouleme.fr)
