@@ -29,27 +29,26 @@ I have been passionate about computing since childhood. This passion led me to s
 
 ### Languages & System
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-gray.svg?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-green.svg?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
 
 ### AI / LLM
 ![Langflow](https://img.shields.io/badge/Langflow-0E1E25.svg?logo=langflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000.svg?logo=app&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000.svg?logo=langfuse&logoColor=white)
 
 ### OS & Dev Tools
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![TailsOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?logo=apacheairflow&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00.svg?logo=zapier&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-red.svg?logo=n8n&logoColor=white)
 
 ### Editors / Productivity
 ![SupraVim](https://img.shields.io/badge/SupraVim-019733.svg?logo=vim&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000.svg?logo=app&logoColor=white)
+![ClaudeCode](https://img.shields.io/badge/Claude%20Code-D97757?logo=claudecode&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)
 
 ### Web
@@ -62,6 +61,7 @@ I have been passionate about computing since childhood. This passion led me to s
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003545?logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
