@@ -15,7 +15,7 @@ I have been passionate about computing since childhood. This passion led me to s
 
 - 🔧 Student at 42 Angoulême  
 - 💻 Developing in **C, C++**, and modern technologies  
-- 🚀 Freelance at [Aduxio](https://aduxio.fr), where I design and develop scalable software solutions:
+- 🚀 Freelance at [Aduxio](https://aduxio.fr) & AI Engineer at [Generation Robots](https://generationrobots.com), where I design and develop scalable software solutions:
 
   - Optimized ERP, CRM, and internal tools for performance and cross-platform accessibility
   - Database management, complex forms, and automated workflows  
